@@ -20,8 +20,7 @@ pose in the world. This class includes the following functions:
 
 - print: prints the pose of the robot
 
-- plot: plots the robot in the world [different colors and different plot styles - ’robot’ and ’particle’
-- can be chosen]
+- plot: plots the robot in the world [different colors and different plot styles - ’robot’ and ’particle’ can be chosen]
 
 - set noise: sets the noise parameters (forward noise, turn noise, sense noise range,
 sense noise bearing)
